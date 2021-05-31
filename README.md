@@ -5,3 +5,4 @@ process would be stored with a view to maintaining the quality of the vaccines a
 entire process more transparent.
 
 # Poster
+<img src="sample1.PNG">
